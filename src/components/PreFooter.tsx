@@ -14,7 +14,9 @@ const PreFooter = () => {
             Interested in working together?
           </h2>
           <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-            Lorem ipsum dolor sit amet consectetur adipiscing elit donec morbi lectus nisi egestas proin amet rhoncus scelerisque lorem feugiat amet hac ornare.
+          Are you working on an exciting project or have a creative idea where my skills could be a great fit?
+          I’m always eager to collaborate with innovative teams and passionate individuals.
+          Whether it’s developing cutting-edge software solutions, tackling complex challenges, or bringing new ideas to life, I’m ready to contribute and make an impact.
           </p>
         </div>
         <Button runFunc={goToContact} classNames="-rotate-90 lg:col-span-5 lg:w-28 lg:h-28 w-24 h-24 lg:place-self-center"  />

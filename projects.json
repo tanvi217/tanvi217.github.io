@@ -31,12 +31,12 @@
   },
   {
     "id": 4,
-    "title": "Illustration design for Edu X",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "image": "/images/preview-10.jpeg",
+    "title": "Aerith's Adventure",
+    "description": "A captivating 2D endless runner game where Aerith must dodge ghosts for as long as possible. As you progress, the difficulty ramps up.",
+    "image": "/images/aerith-adv.png",
     "url": "#",
-    "category": "Illustrations",
+    "category": "Unity",
     "company": "Edu X",
-    "slug": "illustration-design-for-edu-x"
+    "slug": "https://github.com/tanvi217/Aerith-s-Adventure"
   }
 ]

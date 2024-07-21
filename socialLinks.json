@@ -1,37 +1,14 @@
 [
   {
-    "title": "Facebook",
-    "link": "https://facebook.com/",
-    "iconClass": "la-facebook-f"
-  },
-  {
-    "title": "Instagram",
-    "link": "https://instagram.com/",
-    "iconClass": "la-instagram"
-  },
-  {
-    "title": "Twitter",
-    "link": "https://twitter.com/",
-    "iconClass": "la-twitter"
-  },
-  {
     "title": "LinkedIn",
-    "link": "https://linkedin.com/",
-    "iconClass": "la-linkedin-in"
+    "link": "https://linkedin.com/in/tanvi217",
+    "iconClass": "la-linkedin-in",
+    "text": "Lets connect and explore professional opportunities or share industry insights."
   },
   {
-    "title": "Dribbble",
+    "title": "Email",
     "link": "https://dribbble.com/",
-    "iconClass": "la-dribbble"
-  },
-  {
-    "title": "Behance",
-    "link": "https://behance.net/",
-    "iconClass": "la-behance"
-  },
-  {
-    "title": "YouTube",
-    "link": "https://youtube.com/",
-    "iconClass": "la-youtube"
+    "iconClass": "la-dribbble",
+    "text": "Drop me a line anytime, and I'll get back to you as soon as possible."
   }
 ]

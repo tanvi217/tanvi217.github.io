@@ -10,10 +10,10 @@ const Hero = ({ scrollToAbout = () => {} }: Props) => {
       <div className="relative grid max-w-screen-xl px-4 mx-auto lg:gap-8 xl:gap-0 lg:grid-cols-12">
         <div className="mx-auto place-self-center lg:col-span-7">
           <h1 className="lg:max-w-2xl mb-4 text-4xl font-normal tracking-normal md:text-5xl xl:text-6xl">
-            I'm Jane Doe, a designer based in Stratford, London
+            I'm Tanvi Agarwal, a Software Engineer
           </h1>
           <p className="lg:max-w-2xl mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-            Lorem ipsum dolor sit amet consectetur adipiscing elit donec morbi lectus nisi egestas proin amet rhoncus sceleris lorem feugiat amet hac ornar morbi lectus.
+          Passionate Software Engineer with experience in both backend and frontend development, I strive to build secure, efficient, and scalable solutions. Alongside my professional work, I enjoy drawing, painting, and hitting the gym to stay active and creative.
           </p>
         </div>
         <div className="lg:order-first lg:mt-0 lg:col-span-5 relative">

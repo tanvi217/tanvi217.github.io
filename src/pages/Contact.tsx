@@ -18,10 +18,10 @@ const Contact = () => {
         <div className="relative grid auto-cols-fr gap-10 max-w-screen-xl px-4 mx-auto lg:grid-cols-12">
           <div className="place-self-start lg:col-span-6">
             <h1 className="mb-4 text-4xl font-medium tracking-normal md:text-5xl">
-              Get in touch
+              Lets Connect!
             </h1>
             <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl my-5">
-              Lorem ipsum dolor sit amet consectetur adipiscing elit donec morbi lectus nisi egestas proin amet rhoncus scelerisque lorem feugiat amet hac ornare.
+            I’d love to hear from you! Whether you have a question, a project idea, or just want to chat about the latest tech trends, feel free to reach out. Your thoughts and feedback are always welcome!
             </p>
             <div className="grid auto-cols-fr max-w-scree-xl sm:grid-cols-2 grid-cols-1 gap-10">
               {
