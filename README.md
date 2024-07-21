@@ -1,22 +1,10 @@
-### Portfolio template with Vite and React
-
-**Preview**
-<img src="./public/images/screenshot.jpg" alt="Demo screenshot" style="width: 100%; height: auto;max-width: 100%" />
-
-
-**Features** 
-
-- 🥰 Minimal and light
-- 📱 Responsive
-- 🌗 Light/dark/system color modes
+### Tanvi's Portfolio
 
 ## Setup
 
-Make sure to install the dependencies:
+Install the dependencies:
 
 ```bash
-# yarn
-yarn install
 
 # npm
 npm install

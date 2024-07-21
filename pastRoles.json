@@ -1,38 +1,29 @@
 [
   {
     "id": 0,
-    "title": "Senior UI/UX Designer",
-    "startYear": "2022",
-    "endYear": "2023",
-    "company": "Meta",
-    "logo": "/images/Meta.svg",
-    "description": "Lorem ipsum dolor sit amet tragon consectetur dolseclm adipiscing elit mattis faucibus odio feugiat."
+    "title": "Software Engineer 2",
+    "startYear": "2023",
+    "endYear": "Present",
+    "company": "Microsoft",
+    "logo": "/images/microsoft.svg",
+    "description": "Collaborated on the development of an advanced access control policy, Restricted Access Control, addressing oversharing scenarios. "
   },
   {
     "id": 1,
-    "title": "Lead of UX Design",
-    "startYear": "2020",
-    "endYear": "2021",
-    "company": "Twitter",
-    "logo": "/images/twitter.svg",
-    "description": "Lorem ipsum dolor sit amet tragon consectetur dolseclm adipiscing elit mattis faucibus odio feugiat."
+    "title": "Software Engineer",
+    "startYear": "2021",
+    "endYear": "2023",
+    "company": "Microsoft",
+    "logo": "/images/microsoft.svg",
+    "description": "Developed authentication modules in the Reply At Mention (RAM) Service and onboarded the service to the MSAL library, ensuring resilience and security."
   },
   {
     "id": 2,
-    "title": "Head of UI/UX Design",
-    "startYear": "2019",
-    "endYear": "2020",
-    "company": "YouTube",
-    "logo": "/images/youtube.svg",
-    "description": "Lorem ipsum dolor sit amet tragon consectetur dolseclm adipiscing elit mattis faucibus odio feugiat."
-  },
-  {
-    "id": 3,
-    "title": "Mobile UI/UX Designer",
-    "startYear": "2017",
-    "endYear": "2018",
-    "company": "Twitch",
-    "logo": "/images/twitch.svg",
-    "description": "Lorem ipsum dolor sit amet tragon consectetur dolseclm adipiscing elit mattis faucibus odio feugiat."
+    "title": "Software Engineer Intern",
+    "startYear": "Jan 2021",
+    "endYear": "June 2021",
+    "company": "Amazon",
+    "logo": "/images/amazon.svg",
+    "description": "As an intern in the Fast Data Technologies team, designed and implemented a monitoring service for exception data pipelines and built an alerting system, significantly reducing on-call effort. Developed a safe and dynamic rollout plan for the durable to in-memory queue migration project, based on various data graph types. This flagship initiative reduced IMR by 10% and latency by 40%."
   }
 ]

@@ -1,6 +1,5 @@
 import { useRef, useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import Logo from './Logo'
 
 const Navbar = () => {
   // check if the device theme is dark
@@ -67,8 +66,8 @@ const Navbar = () => {
   return (
     <nav className="flex text-center md:text-left md:justify-between py-8 px-6 bg-white dark:bg-neutral-900 items-center w-full">
       <div className="mr-auto">
-        <Link to="/">
-          <Logo />
+        <Link to="/" className="md:text-3xl text-2xl dark:text-neutral-100 no-underline md:ml-2 md:pr-0 md:pl-0 pl-8 pr-24">
+          Tanvi Agarwal
         </Link>
       </div>
       <div
@@ -97,14 +96,8 @@ const Navbar = () => {
           md:pt-0 pt-12
         `}
       >
-        <Link to="/portfolio" className="md:text-lg text-2xl dark:text-neutral-100 no-underline md:ml-2 md:pr-0 md:pl-0 pl-8 pr-24">
-          Portfolio
-        </Link>
         <Link to="/contact" className="md:text-lg text-2xl dark:text-neutral-100 no-underline md:ml-2 md:pr-0 md:pl-0 pl-8 pr-24">
           Contact
-        </Link>
-        <Link to="/resume" className="md:text-lg text-2xl dark:text-neutral-100 no-underline md:ml-2 md:pr-0 md:pl-0 pl-8 pr-24">
-          Resume
         </Link>
         <button
           onClick={toggleTheme}
