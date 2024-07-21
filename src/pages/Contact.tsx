@@ -25,7 +25,7 @@ const Contact = () => {
             </p>
             <div className="grid auto-cols-fr max-w-scree-xl sm:grid-cols-2 grid-cols-1 gap-10">
               {
-                socialLinks.map((link) => <AnimatedLink key={link.link} title={link.title} link={link.link} isExternal={true} />)
+                socialLinks.map((link) => <AnimatedLink key={link.link} download={''} title={link.title} link={link.link} isExternal={true} />)
               }
             </div>
           </div>

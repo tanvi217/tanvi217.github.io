@@ -66,7 +66,7 @@ const Navbar = () => {
   return (
     <nav className="flex text-center md:text-left md:justify-between py-8 px-6 bg-white dark:bg-neutral-900 items-center w-full">
       <div className="mr-auto">
-      <Link to="/" className="md:text-lg text-2xl dark:text-neutral-100 no-underline md:ml-2 md:pr-0 md:pl-0 pl-8 pr-24">
+        <Link to="/" className="md:text-3xl text-2xl dark:text-neutral-100 no-underline md:ml-2 md:pr-0 md:pl-0 pl-8 pr-24">
           Tanvi Agarwal
         </Link>
       </div>

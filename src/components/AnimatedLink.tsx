@@ -4,16 +4,18 @@ import ArrowTopRight from './ArrowTopRight'
 interface Props {
   title: string,
   link: string,
+  download: string,
   isExternal: boolean
 }
 
-const AnimatedLink = ({ title, link, isExternal }:Props) => {
+const AnimatedLink = ({ title, link, download, isExternal }:Props) => {
   return (
     <>
       {
         isExternal ?
           <a
           href={link}
+          download={download}
           target="_blank"
           className="
             font-semibold
@@ -40,6 +42,7 @@ const AnimatedLink = ({ title, link, isExternal }:Props) => {
         </a> : 
         <Link
           to={link}
+          download={download}
           className="
             font-semibold
             md:text-2xl

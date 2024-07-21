@@ -7,8 +7,8 @@
   },
   {
     "title": "Email",
-    "link": "https://dribbble.com/",
-    "iconClass": "la-dribbble",
+    "link": "mailto:ivnatagarwal@gmail.com",
+    "iconClass": "la-email",
     "text": "Drop me a line anytime, and I'll get back to you as soon as possible."
   }
 ]
