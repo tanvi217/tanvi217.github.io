@@ -13,11 +13,13 @@ const Hero = ({ scrollToAbout = () => {} }: Props) => {
             I'm Tanvi Agarwal, a Software Engineer
           </h1>
           <p className="lg:max-w-2xl mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-          Passionate Software Engineer with experience in both backend and frontend development, I strive to build secure, efficient, and scalable solutions. Alongside my professional work, I enjoy drawing, painting, and hitting the gym to stay active and creative.
+          Passionate Software Engineer with experience in both backend and frontend development,
+          I strive to build secure, efficient, and scalable solutions while adhering to clean code principles.
+          Alongside my professional work, I have a knack for solving complex problems and enjoy staying active and creative through sketching, trekking, and hitting the gym.
           </p>
         </div>
         <div className="lg:order-first lg:mt-0 lg:col-span-5 relative">
-          <img src="/images/1.jpg" alt="hero" className="transition-all duration-700 opacity-0 animating-image" />
+          <img src="/images/sticker.webp" width="200%" height="auto" alt="hero" className="transition-all duration-700 opacity-0 animating-image" />
           <div className="bg-neutral-950 absolute inset-0 transition-all duration-700 animating-bg w-full" />
         </div>
         <Button runFunc={scrollToAbout} classNames="lg:absolute w-24 h-24" />

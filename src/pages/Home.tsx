@@ -20,7 +20,6 @@ const Home = () => {
   return (
     <div className="flex flex-col divide-y dark:divide-gray-600">
       <Hero scrollToAbout={scrollIntoView} />
-      <About ref={targetElem} />
       <Experience />
       <PastProjects />
       <PreFooter />
