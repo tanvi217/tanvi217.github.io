@@ -4,6 +4,7 @@ import About from '../components/About'
 import Experience from '../components/Experience'
 import PreFooter from '../components/PreFooter'
 import PastProjects from '../components/PastProjects'
+import TechStack  from '../components/TechStack'
 
 const Home = () => {
   const targetElem = useRef()
@@ -20,6 +21,7 @@ const Home = () => {
   return (
     <div className="flex flex-col divide-y dark:divide-gray-600">
       <Hero scrollToAbout={scrollIntoView} />
+      <TechStack />
       <Experience />
       <PastProjects />
       <PreFooter />

@@ -11,7 +11,7 @@ const Position = ({ job, isResume }:Props) => {
       }
       <div className="flex w-full flex-col justify-center h-full">
         {
-          job.startYear && job.endYear &&
+          job.startYear && job.endYear && job.stack &&
           <p className="font-normal tracking-wide text-gray-500 text-lg">
             {job.company}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;{job.startYear}/{job.endYear}
           </p>
@@ -19,6 +19,8 @@ const Position = ({ job, isResume }:Props) => {
         <h3 className="text-2xl font-medium py-3">
           {job.title}
         </h3>
+        <p className="font-normal tracking-wide">Tech Stack - {job.stack}</p>
+        <br />
         <p className="font-normal leading-relaxed text-gray-500 text-lg">
           {job.description}
         </p>

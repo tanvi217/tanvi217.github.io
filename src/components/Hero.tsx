@@ -13,7 +13,7 @@ const Hero = ({ scrollToAbout = () => {} }: Props) => {
             I'm Tanvi Agarwal
           </h1>
           <p className="lg:max-w-2xl mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-          👋 Hi, I’m a passionate Software Engineer and grad student at UMass Amherst.
+          👋 Hi, I’m a passionate Software Engineer and Computer Science Grad at UMass Amherst.
           I’ve worked across backend systems and cloud infrastructure at Microsoft and Amazon, building scalable and secure services in C++, C#, Java, and Azure.
           <br></br>
           🔍 My interests lie in AI, systems and privacy. I love solving hard problems and making tech more responsible and efficient.

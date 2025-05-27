@@ -3,7 +3,8 @@
     "id": 0,
     "title": "Software Engineer 2",
     "startYear": "2023",
-    "endYear": "Present",
+    "endYear": "2025",
+    "stack": "C#, C++, ASP.NET, Azure, Kubernetes",
     "company": "Microsoft",
     "logo": "/images/microsoft.svg",
     "description": "As a Software Engineer on the OneDrive and SharePoint Authentication and Authorization Team, I collaborated on the development of an advanced access control policy, Restricted Access Control, which allows tenant admins to limit access to specified users and prevent oversharing. I also worked on data governance reports that provide insights into access denials through these advanced policies, utilizing technologies such as C# and ASP.NET. "
@@ -13,6 +14,7 @@
     "title": "Software Engineer",
     "startYear": "2021",
     "endYear": "2023",
+    "stack": "C#, ASP.NET, Azure",
     "company": "Microsoft",
     "logo": "/images/microsoft.svg",
     "description": "As a Software Engineer on the Reply At Mentions team, I developed secure and reliable authentication modules. I streamlined operations by automating the renewal process for active monitoring of Reply At Mentions endpoints, reducing development effort by 75%. Additionally, I contributed to a key project that involved relaying task edits from the Planner service to Excel."
@@ -22,6 +24,7 @@
     "title": "Software Engineer Intern",
     "startYear": "Jan 2021",
     "endYear": "June 2021",
+    "stack": "Java, Spring Boot, DynamoDB",
     "company": "Amazon",
     "logo": "/images/amazon.svg",
     "description": "In the Fast Data Technologies team, which handles over 5 trillion events, I designed and implemented a monitoring service for exception data pipelines and built an alerting system. This development significantly reduced on-call effort by improving the efficiency of exception handling and response."
