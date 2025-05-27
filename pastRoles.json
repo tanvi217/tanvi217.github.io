@@ -6,7 +6,7 @@
     "endYear": "Present",
     "company": "Microsoft",
     "logo": "/images/microsoft.svg",
-    "description": "Collaborated on the development of an advanced access control policy, Restricted Access Control, addressing oversharing scenarios. "
+    "description": "As a Software Engineer on the OneDrive and SharePoint Authentication and Authorization Team, I collaborated on the development of an advanced access control policy, Restricted Access Control, which allows tenant admins to limit access to specified users and prevent oversharing. I also worked on data governance reports that provide insights into access denials through these advanced policies, utilizing technologies such as C# and ASP.NET. "
   },
   {
     "id": 1,
@@ -15,7 +15,7 @@
     "endYear": "2023",
     "company": "Microsoft",
     "logo": "/images/microsoft.svg",
-    "description": "Developed authentication modules in the Reply At Mention (RAM) Service and onboarded the service to the MSAL library, ensuring resilience and security."
+    "description": "As a Software Engineer on the Reply At Mentions team, I developed secure and reliable authentication modules. I streamlined operations by automating the renewal process for active monitoring of Reply At Mentions endpoints, reducing development effort by 75%. Additionally, I contributed to a key project that involved relaying task edits from the Planner service to Excel."
   },
   {
     "id": 2,
@@ -24,6 +24,6 @@
     "endYear": "June 2021",
     "company": "Amazon",
     "logo": "/images/amazon.svg",
-    "description": "As an intern in the Fast Data Technologies team, designed and implemented a monitoring service for exception data pipelines and built an alerting system, significantly reducing on-call effort. Developed a safe and dynamic rollout plan for the durable to in-memory queue migration project, based on various data graph types. This flagship initiative reduced IMR by 10% and latency by 40%."
+    "description": "In the Fast Data Technologies team, which handles over 5 trillion events, I designed and implemented a monitoring service for exception data pipelines and built an alerting system. This development significantly reduced on-call effort by improving the efficiency of exception handling and response."
   }
 ]

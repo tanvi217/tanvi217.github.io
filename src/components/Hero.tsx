@@ -10,12 +10,13 @@ const Hero = ({ scrollToAbout = () => {} }: Props) => {
       <div className="relative grid max-w-screen-xl px-4 mx-auto lg:gap-8 xl:gap-0 lg:grid-cols-12">
         <div className="mx-auto place-self-center lg:col-span-7">
           <h1 className="lg:max-w-2xl mb-4 text-4xl font-normal tracking-normal md:text-5xl xl:text-6xl">
-            I'm Tanvi Agarwal, a Software Engineer
+            I'm Tanvi Agarwal
           </h1>
           <p className="lg:max-w-2xl mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
-          Passionate Software Engineer with experience in both backend and frontend development,
-          I strive to build secure, efficient, and scalable solutions while adhering to clean code principles.
-          Alongside my professional work, I have a knack for solving complex problems and enjoy staying active and creative through sketching, trekking, and hitting the gym.
+          👋 Hi, I’m a passionate Software Engineer and grad student at UMass Amherst.
+          I’ve worked across backend systems and cloud infrastructure at Microsoft and Amazon, building scalable and secure services in C++, C#, Java, and Azure.
+          <br></br>
+          🔍 My interests lie in AI, systems and privacy. I love solving hard problems and making tech more responsible and efficient.
           </p>
         </div>
         <div className="lg:order-first lg:mt-0 lg:col-span-5 relative">

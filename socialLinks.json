@@ -10,5 +10,11 @@
     "link": "mailto:ivnatagarwal@gmail.com",
     "iconClass": "la-email",
     "text": "Drop me a line anytime, and I'll get back to you as soon as possible."
+  },
+  {
+    "title": "GitHub",
+    "link": "https://github.com/tanvi217",
+    "iconClass": "la-github",
+    "text": "The place where I share my projects and contributions."
   }
 ]

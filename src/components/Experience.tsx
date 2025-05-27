@@ -12,7 +12,6 @@ const Experience = () => {
           </h2>
           <p className="mb-6 font-normal leading-relaxed text-gray-500 lg:mb-8 text-xl">
           </p>
-          <AnimatedLink title="View resume" link="src\assets\Resume\Tanvi_Agarwal_CV24.pdf" download="Tanvi_Agarwal_CV" isExternal={true}  />
         </div>
         <div className="lg:mt-0 lg:col-span-7">
           <div className="w-full flex flex-col gap-y-4 divide-y dark:divide-gray-600">

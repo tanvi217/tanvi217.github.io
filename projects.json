@@ -1,14 +1,5 @@
 [
   {
-    "id": 3,
-    "title": "Shop Smart",
-    "description": "The application streamlines the shopping process by automatically scanning product QR codes for seamless checkout. It securely manages user and item information, allowing users to easily track and manage their shopping lists through a mobile app. Additionally, it includes a feature that predicts sales trends based on historical purchase data, providing valuable insights for store administrators.",
-    "image": "",
-    "url": "#",
-    "category": "React Native, Firebase, Python, OpenCV",
-    "slug": "https://github.com/tanvi217/Shop-Smart"
-  },
-  {
     "id": 4,
     "title": "Aerith's Adventure",
     "description": "A captivating 2D endless runner game where Aerith must dodge ghosts for as long as possible. As you progress, the difficulty ramps up.",
@@ -16,5 +7,14 @@
     "url": "#",
     "category": "Unity, C#",
     "slug": "https://github.com/tanvi217/Aerith-s-Adventure"
+  },
+  {
+    "id": 3,
+    "title": "Shop Smart",
+    "description": "The application streamlines the shopping process by automatically scanning product QR codes for seamless checkout. It securely manages user and item information, allowing users to easily track and manage their shopping lists through a mobile app. Additionally, it includes a feature that predicts sales trends based on historical purchase data, providing valuable insights for store administrators.",
+    "image": "/images/shop-smart.png",
+    "url": "#",
+    "category": "React Native, Firebase, Python, OpenCV",
+    "slug": "https://github.com/tanvi217/Shop-Smart"
   }
 ]
